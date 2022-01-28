@@ -1,4 +1,3 @@
-from tkinter.filedialog import test
 import funkcja
 
 def test_potega_dodatnia():
