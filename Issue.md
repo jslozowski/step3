@@ -5,7 +5,6 @@
 
 [Hulk Hogan Imie](#hogan-imie)
 
-
 ```python
 {
 print("print")
@@ -15,14 +14,18 @@ print(a)
 ```
 
 
-# Hulk Hogan Imie {#hogan-imie}
+<h1 id="hogan-imie"> Hulk Hogan Imie </h1>
 
-<p>Terry Eugene Bollea[^1]</p> 
+Terry Eugene Bollea[^1]
 
-[^1]: Hulk Hogan
+[^1]:Hulk Hogan
 
 
 - [x] Ukończone zadanie :relieved:
 - [ ] Zadanie do ukończenia :flushed:
+
+
+<mark> na żółto ale nie działa </mark>
+
 
 
